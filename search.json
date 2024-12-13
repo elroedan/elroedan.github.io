@@ -226,44 +226,30 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Elroe Woldemichael CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Linkedin"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "title": "Elroe Woldemichael CV",
+    "section": "Education",
+    "text": "Education\nBachelor of Science in Computer Science | Brigham Young University - Idaho | Rexburg, ID\n\nEmphasis in Software Design and Functional Programming\nGPA: 3.98 (Summa Cum Laude)\nScholarship: Brigham Young University-Idaho Academic Grant (2021-2024)\nSociety: President of Computing Society\nRelevant Courses: Calculus, OOP (C#), Data Structures & Algorithm, and Modularization Design\n\n\nWork Experience\nStudent Engineer @ Family Search - Sep 2024 - Present\nSDET Intern @ Family Search - Apr 2024 - Sep 2024\nOnline CS Tutor @ BYU-I - Apr 2022 - Apr 2024\n\n\nExperiential Learning Projects\nLearning Project | Market Real Estate | Salt Lake City, UT\n\nDesigned and developed a full stack real estate web application using Amplify, Figma, and other AWS services, offering users a platform marketplace to effortlessly list properties for sale or rent\nImplemented advanced search features allowing prospective buyers or renters to refine property searches based on location, type, price, and amenities, ensuring a tailored and efficient browsing experience daily\n\nLearning Project | English Ease | Rexburg, ID October 2023 - December 2023\n\nLed and Collaborated with a team of 5 to build an English learning web app leveraging React and React Native libraries\nConstructed and implemented 5+ features to enhance fun English learning, including sections on animals, alphabets, food, games and body parts\n\nLearning Project | Goal Tracker | Salt Lake City, UT February 2023\n\nDesigned and developed a goal-tracking program to incentivize users to achieve personal goals through gamification techniques and includes 7+ features such as point systems and personalized celebrations\nBuilt a program using object-oriented programming concepts such as encapsulation, inheritance, and polymorphism to accomplish a 90% high code reuse and design flexibilit"
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "objectID": "resume.html#volunteer-experience",
+    "href": "resume.html#volunteer-experience",
+    "title": "Elroe Woldemichael CV",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\n2012 Full-time volunteer | The Church of Jesus Christ of Latter-Day | Salt Lake City, UT\nJune 2019 - June 2021 - Performed 70-80 hours on a weekly basis speaking both English and Amharic (Ethiopia) fluently - Prepared goals and plans for 100+ people to learn important ways to achieve personal goals - Adjusted to different circumstances during pandemic and applied phone and virtual lessons on a daily basis"
   },
   {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Elroe Woldemichael CV",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming Languages : C++ | Python | C# | MySQL | Erlang | Javascript | HTML | CSS\nTools : Git | GitHub | visual studio | vs code\nSoft skills : Teamwork | Problem solving | Adaptability | Critical thinking"
   },
   {
     "objectID": "exploration.html",
